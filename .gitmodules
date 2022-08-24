@@ -18,3 +18,8 @@
 	url = https://github.com/sydneybiox/scmerge
 	shallow = true
 	registered = true
+[submodule "scReClassify"]
+	path = scReClassify
+	url = https://github.com/sydneybiox/screclassify
+	shallow = true
+	registered = true
