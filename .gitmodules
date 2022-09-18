@@ -8,13 +8,3 @@
 	url = https://github.com/sydneybiox/citefuse
 	shallow = true
 	registered = true
-[submodule "scMerge"]
-	path = scMerge
-	url = https://github.com/sydneybiox/scmerge
-	shallow = true
-	registered = true
-[submodule "scReClassify"]
-	path = scReClassify
-	url = https://github.com/sydneybiox/screclassify
-	shallow = true
-	registered = true

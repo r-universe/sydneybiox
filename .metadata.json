@@ -1,11 +1,5 @@
 [
   {
     "package": "CiteFuse"
-  },
-  {
-    "package": "scMerge"
-  },
-  {
-    "package": "scReClassify"
   }
 ]
