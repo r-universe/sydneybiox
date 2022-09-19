@@ -3,6 +3,12 @@
     "package": "CiteFuse"
   },
   {
+    "package": "scClassify"
+  },
+  {
+    "package": "scMerge"
+  },
+  {
     "package": "scReClassify"
   }
 ]
