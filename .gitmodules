@@ -23,3 +23,8 @@
 	url = https://github.com/sydneybiox/screclassify
 	shallow = true
 	registered = true
+[submodule "simpleSeg"]
+	path = simpleSeg
+	url = https://github.com/sydneybiox/simpleseg
+	shallow = true
+	registered = true

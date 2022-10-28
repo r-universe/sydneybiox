@@ -10,5 +10,8 @@
   },
   {
     "package": "scReClassify"
+  },
+  {
+    "package": "simpleSeg"
   }
 ]
