@@ -13,5 +13,8 @@
   },
   {
     "package": "simpleSeg"
+  },
+  {
+    "package": "ClassifyR"
   }
 ]

@@ -28,3 +28,8 @@
 	url = https://github.com/sydneybiox/simpleseg
 	shallow = true
 	registered = true
+[submodule "ClassifyR"]
+	path = ClassifyR
+	url = https://github.com/sydneybiox/classifyr
+	shallow = true
+	registered = true
