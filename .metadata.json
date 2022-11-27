@@ -3,6 +3,9 @@
     "package": "CiteFuse"
   },
   {
+    "package": "ClassifyR"
+  },
+  {
     "package": "scClassify"
   },
   {
@@ -13,8 +16,5 @@
   },
   {
     "package": "simpleSeg"
-  },
-  {
-    "package": "ClassifyR"
   }
 ]

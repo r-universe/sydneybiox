@@ -8,6 +8,11 @@
 	url = https://github.com/sydneybiox/citefuse
 	shallow = true
 	registered = true
+[submodule "ClassifyR"]
+	path = ClassifyR
+	url = https://github.com/sydneybiox/classifyr
+	shallow = true
+	registered = true
 [submodule "scClassify"]
 	path = scClassify
 	url = https://github.com/sydneybiox/scclassify
@@ -26,10 +31,5 @@
 [submodule "simpleSeg"]
 	path = simpleSeg
 	url = https://github.com/sydneybiox/simpleseg
-	shallow = true
-	registered = true
-[submodule "ClassifyR"]
-	path = ClassifyR
-	url = https://github.com/sydneybiox/classifyr
 	shallow = true
 	registered = true
