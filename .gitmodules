@@ -33,8 +33,3 @@
 	url = https://github.com/sydneybiox/simpleseg
 	shallow = true
 	registered = true
-[submodule "propr"]
-	path = propr
-	url = https://github.com/tpq/propr
-	shallow = true
-	registered = false
