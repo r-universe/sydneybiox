@@ -18,6 +18,11 @@
 	url = https://github.com/sydneybiox/scclassify
 	shallow = true
 	registered = true
+[submodule "scFeatures"]
+	path = scFeatures
+	url = https://github.com/sydneybiox/scfeatures
+	shallow = true
+	registered = true
 [submodule "scMerge"]
 	path = scMerge
 	url = https://github.com/sydneybiox/scmerge

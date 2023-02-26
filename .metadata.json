@@ -9,6 +9,9 @@
     "package": "scClassify"
   },
   {
+    "package": "scFeatures"
+  },
+  {
     "package": "scMerge"
   },
   {
