@@ -3,9 +3,14 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "scFeatures"]
-	path = scFeatures
-	url = https://github.com/sydneybiox/scfeatures
+[submodule "CiteFuse"]
+	path = CiteFuse
+	url = https://github.com/sydneybiox/citefuse
+	shallow = true
+	registered = true
+[submodule "ClassifyR"]
+	path = ClassifyR
+	url = https://github.com/sydneybiox/classifyr
 	shallow = true
 	registered = true
 [submodule "scClassify"]
@@ -13,9 +18,9 @@
 	url = https://github.com/sydneybiox/scclassify
 	shallow = true
 	registered = true
-[submodule "CiteFuse"]
-	path = CiteFuse
-	url = https://github.com/sydneybiox/citefuse
+[submodule "scFeatures"]
+	path = scFeatures
+	url = https://github.com/sydneybiox/scfeatures
 	shallow = true
 	registered = true
 [submodule "scMerge"]
@@ -23,18 +28,13 @@
 	url = https://github.com/sydneybiox/scmerge
 	shallow = true
 	registered = true
-[submodule "simpleSeg"]
-	path = simpleSeg
-	url = https://github.com/sydneybiox/simpleseg
-	shallow = true
-	registered = true
 [submodule "scReClassify"]
 	path = scReClassify
 	url = https://github.com/sydneybiox/screclassify
 	shallow = true
 	registered = true
-[submodule "ClassifyR"]
-	path = ClassifyR
-	url = https://github.com/sydneybiox/classifyr
+[submodule "simpleSeg"]
+	path = simpleSeg
+	url = https://github.com/sydneybiox/simpleseg
 	shallow = true
 	registered = true
