@@ -1,23 +1,23 @@
 [
   {
-    "package": "CiteFuse"
-  },
-  {
-    "package": "ClassifyR"
+    "package": "scFeatures"
   },
   {
     "package": "scClassify"
   },
   {
-    "package": "scFeatures"
+    "package": "CiteFuse"
   },
   {
     "package": "scMerge"
   },
   {
+    "package": "simpleSeg"
+  },
+  {
     "package": "scReClassify"
   },
   {
-    "package": "simpleSeg"
+    "package": "ClassifyR"
   }
 ]
