@@ -13,6 +13,11 @@
 	url = https://github.com/sydneybiox/classifyr
 	shallow = true
 	registered = true
+[submodule "MoleculeExperiment"]
+	path = MoleculeExperiment
+	url = https://github.com/sydneybiox/moleculeexperiment
+	shallow = true
+	registered = true
 [submodule "scClassify"]
 	path = scClassify
 	url = https://github.com/sydneybiox/scclassify
