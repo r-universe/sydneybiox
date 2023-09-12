@@ -11,6 +11,9 @@
 [submodule "MoleculeExperiment"]
 	path = MoleculeExperiment
 	url = https://github.com/sydneybiox/moleculeexperiment
+[submodule "Statial"]
+	path = Statial
+	url = https://github.com/sydneybiox/statial
 [submodule "scClassify"]
 	path = scClassify
 	url = https://github.com/sydneybiox/scclassify
