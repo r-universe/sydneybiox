@@ -14,6 +14,9 @@
 [submodule "Statial"]
 	path = Statial
 	url = https://github.com/sydneybiox/statial
+[submodule "lisaClust"]
+	path = lisaClust
+	url = https://github.com/sydneybiox/lisaclust
 [submodule "scClassify"]
 	path = scClassify
 	url = https://github.com/sydneybiox/scclassify
@@ -29,3 +32,6 @@
 [submodule "simpleSeg"]
 	path = simpleSeg
 	url = https://github.com/sydneybiox/simpleseg
+[submodule "spicyR"]
+	path = spicyR
+	url = https://github.com/sydneybiox/spicyr
